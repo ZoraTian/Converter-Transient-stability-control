@@ -1,0 +1,3 @@
+# Converter-Transient-stability-control
+当电网发生对称短路故障时，逆变器的稳定性控制策略的simulink模型
+模型中采用两种稳定性控制策略，参考自重庆大学姚骏老师的两篇论文：
